@@ -48,6 +48,11 @@ ul li a.active{
   text-align: center;
 }
 
+.mission-statement{
+  font-size: 2rem;
+  text-align: center;
+}
+
 .line{
   border-bottom: .3rem solid black;
 }
