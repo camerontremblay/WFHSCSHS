@@ -3,6 +3,7 @@
   --background-color: #CDD5D1;
   --text-color:#000000;
   --header-color: #E18335;
+  --font-size: 2em;
 }
 
 
@@ -35,15 +36,16 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #111111;
+  background-color: var(--text-color);
 }
 
 nav ul li a.active{
-    background-color: rgb(16, 16, 132);
+    background-color: var(--header-color);
 }
 
 main{
   padding: 10px;
+  font-size: var(--font-size);
 }
 
 h1{
