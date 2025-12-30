@@ -3,7 +3,9 @@
   --background-color: #CDD5D1;
   --text-color:#000000;
   --header-color: #E18335;
-  --font-size: 2em;
+  --header-size: 3em;
+  --subheader-size: 2em;
+  --font-size: 1em;
 }
 
 
@@ -50,4 +52,9 @@ main{
 
 h1{
   color: var(--header-color);
+  font-size: var(--header-size);
+}
+
+#hero-section{
+  text-align: center;
 }
