@@ -53,8 +53,17 @@ main{
 h1{
   color: var(--header-color);
   font-size: var(--header-size);
+  text-align: center;
 }
 
 #hero-section{
   text-align: center;
+}
+
+#hero-section h1{
+  font-size: 5em;
+}
+
+#hero-section h3{
+  font-size: 3em;
 }
