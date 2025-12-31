@@ -10,7 +10,7 @@
 
 
 html{
-  font-size: 16px;
+  font-size: var(--font-size);
 }
 
 body{
@@ -61,9 +61,9 @@ h1{
 }
 
 #hero-section h1{
-  font-size: 5em;
+  font-size: var(--header-size);
 }
 
 #hero-section h3{
-  font-size: 3em;
+  font-size: var(--subheader-size);
 }
