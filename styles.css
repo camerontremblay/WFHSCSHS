@@ -55,6 +55,7 @@ h1{
   color: var(--header-color);
   font-size: var(--header-size);
   text-align: center;
+  margin: -10px;
 }
 
 #hero-section{
