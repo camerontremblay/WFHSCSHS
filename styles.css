@@ -80,3 +80,17 @@ h1{
   text-align: center;
   padding: 20px;
 }
+
+.line{
+  border-bottom: 4px solid var(--header-color);
+}
+
+footer p{
+  display: block;
+  padding: .2rem;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+}
