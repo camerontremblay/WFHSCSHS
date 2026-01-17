@@ -1,6 +1,6 @@
 :root {
   --navbar-color: #084C61;
-  --background-color: linear-gradient(159deg, rgba(0,51,102,1) 0%, rgba(15,82,186,1) 100%);
+  --background-color: linear-gradient(to right, rgba(0,51,102,1), rgba(15,82,186,1));
   --text-color:#000000;
   --header-color: #E18335;
   --header-size: 5em;
