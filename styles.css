@@ -2,7 +2,7 @@
   --navbar-color: #282828;
   --background-color: linear-gradient(to right, #012B53, #0C397D);
   --text-color:#F5F5F5;
-  --header-color: #E18335;
+  --header-color: #D1603D;
   --header-size: 5em;
   --subheader-size: 2em;
   --slogan-size: 1.5em;
@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: var(--text-color);
+  background-color: var(--header-color);
 }
 
 nav ul li a.active{
