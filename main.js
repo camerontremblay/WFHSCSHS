@@ -1,8 +1,11 @@
 /*
-Just planning for whole sit and I'm to lazy to make a new text file
-Home page - title, short slogan and intro
-About - explain values, what we do, etc.
-Info - member requirements, contact info, meetings, FAQs, contact w/ questions
-Coding - link to youtube channel, reccomend some resources
-Projects page? - show what our club has done/planning to do
+TODO possibilities
+Shadows to boxes
+change font for quotes
+add insta link
+change meetings to weekly without set day
+typos
+homescreen typing effect
+media queries
+links css
 */
