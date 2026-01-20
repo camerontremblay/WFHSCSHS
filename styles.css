@@ -1,7 +1,7 @@
 :root {
-  --navbar-color: #084C61;
+  --navbar-color: #282828;
   --background-color: linear-gradient(to right, #012B53, #0C397D);
-  --text-color:#000000;
+  --text-color:#F5F5F5;
   --header-color: #E18335;
   --header-size: 5em;
   --subheader-size: 2em;
