@@ -3,9 +3,7 @@ TODO possibilities
 Shadows to boxes
 change font for quotes
 add insta link
-change meetings to weekly without set day
 typos
 homescreen typing effect
 media queries
-links css
 */
