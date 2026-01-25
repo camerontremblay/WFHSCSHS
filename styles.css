@@ -11,6 +11,19 @@
 
 }
 
+@media (max-width: 768px) {
+  :root {
+    --header-size: 3em;
+    --subheader-size: 1.5em;
+    --slogan-size: 1.2em;
+    --font-size: 0.9em;
+  }
+
+  html{
+    width: 100%;
+  }
+}
+
 html{
   font-size: var(--font-size);
 }
