@@ -13,16 +13,10 @@
 
 @media screen and (max-width: 768px) {
   :root {
-    --header-size: 10em;
-    --subheader-size: 4em;
-    --slogan-size: 3em;
-    --font-size: 2em;
-    --header-color: green;
-  }
-
-  html{
-    width: 100%;
-    color: yellow;
+    --header-size: 2.5em;
+    --subheader-size: 2em;
+    --slogan-size: 1.5em;
+    --font-size: 1em;
   }
 }
 
