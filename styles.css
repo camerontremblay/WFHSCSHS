@@ -13,10 +13,10 @@
 
 @media (max-width: 768px) {
   :root {
-    --header-size: 3em;
-    --subheader-size: 1.5em;
-    --slogan-size: 1.2em;
-    --font-size: 0.9em;
+    --header-size: 10em;
+    --subheader-size: 4em;
+    --slogan-size: 3em;
+    --font-size: 2em;
   }
 
   html{
