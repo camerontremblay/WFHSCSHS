@@ -11,7 +11,7 @@
 
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   :root {
     --header-size: 10em;
     --subheader-size: 4em;
