@@ -17,10 +17,12 @@
     --subheader-size: 4em;
     --slogan-size: 3em;
     --font-size: 2em;
+    --header-color: green;
   }
 
   html{
     width: 100%;
+    color: yellow;
   }
 }
 
