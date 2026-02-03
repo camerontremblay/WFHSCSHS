@@ -19,10 +19,13 @@
     --font-size: 1em;
   }
 
-  nav{
-    display: block;
+  nav ul {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  nav ul li {
     width: 100%;
-    background-color: green;
   }
 }
 
