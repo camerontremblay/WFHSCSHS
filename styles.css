@@ -19,7 +19,6 @@
     --font-size: 1em;
   }
 
-/**Makes it go up and down on mobile*/
   nav ul {
     flex-direction: column;
     text-align: center;

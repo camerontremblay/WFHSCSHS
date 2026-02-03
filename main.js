@@ -1,9 +1,0 @@
-/*
-TODO possibilities
-Shadows to boxes
-change font for quotes
-add insta link
-typos
-homescreen typing effect
-media queries
-*/
